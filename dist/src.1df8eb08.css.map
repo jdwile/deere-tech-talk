@@ -1,0 +1,1 @@
+{"version":3,"sources":["board.scss"],"names":[],"mappings":"AAAA,OACI,WAAA,CACA,YAAA,CACA","file":"src.1df8eb08.css","sourceRoot":"..\\src","sourcesContent":[".board {\r\n    width: 100vh;\r\n    height: 100vh;\r\n    background-color: #81e9d6;\r\n}"]}

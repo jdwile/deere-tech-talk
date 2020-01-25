@@ -1,0 +1,1 @@
+{"version":3,"sources":["board.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA","file":"deere-tech-talk.e31bb0bc.css","sourceRoot":"..","sourcesContent":[".board {\r\n    width: 100vh;\r\n    height: 100vh;\r\n    background-color: #81e9d6;\r\n}"]}
